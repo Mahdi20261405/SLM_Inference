@@ -1,0 +1,21 @@
+prompt_id,prompt
+1,Explain the difference between training and inference in AI.
+2,Describe three benefits of model quantization.
+3,What is the purpose of a GPU in machine learning?
+4,Explain the concept of model reproducibility.
+5,What is the difference between latency and throughput?
+6,Describe the role of benchmarking in AI engineering.
+7,Explain why memory efficiency matters in AI deployment.
+8,What are the limitations of small language models?
+9,Describe two risks of deploying AI systems.
+10,Explain the concept of data privacy in AI.
+11,What is the difference between cloud and edge computing?
+12,Explain how model compression can affect accuracy.
+13,Describe the importance of software testing in AI.
+14,What is an inference pipeline?
+15,Explain the concept of sustainable AI.
+16,What is the difference between FP16 and 4-bit quantization?
+17,Describe why reproducible experiments matter.
+18,Explain the role of model evaluation in AI development.
+19,What are the trade-offs between speed and model quality?
+20,Explain why resource-aware AI engineering is important.

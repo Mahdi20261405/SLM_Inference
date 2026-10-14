@@ -1,0 +1,21 @@
+prompt_id,prompt
+1,Explain the difference between training and inference in AI. Answer clearly and concisely in no more than 100 words.
+2,Describe three benefits of model quantization. Answer clearly and concisely in no more than 100 words.
+3,What is the purpose of a GPU in machine learning? Answer clearly and concisely in no more than 100 words.
+4,Explain the concept of model reproducibility. Answer clearly and concisely in no more than 100 words.
+5,What is the difference between latency and throughput? Answer clearly and concisely in no more than 100 words.
+6,Describe the role of benchmarking in AI engineering. Answer clearly and concisely in no more than 100 words.
+7,Explain why memory efficiency matters in AI deployment. Answer clearly and concisely in no more than 100 words.
+8,What are the limitations of small language models? Answer clearly and concisely in no more than 100 words.
+9,Describe two risks of deploying AI systems. Answer clearly and concisely in no more than 100 words.
+10,Explain the concept of data privacy in AI. Answer clearly and concisely in no more than 100 words.
+11,What is the difference between cloud and edge computing? Answer clearly and concisely in no more than 100 words.
+12,Explain how model compression can affect accuracy. Answer clearly and concisely in no more than 100 words.
+13,Describe the importance of software testing in AI. Answer clearly and concisely in no more than 100 words.
+14,What is an inference pipeline? Answer clearly and concisely in no more than 100 words.
+15,Explain the concept of sustainable AI. Answer clearly and concisely in no more than 100 words.
+16,What is the difference between FP16 and 4-bit quantization? Answer clearly and concisely in no more than 100 words.
+17,Describe why reproducible experiments matter. Answer clearly and concisely in no more than 100 words.
+18,Explain the role of model evaluation in AI development. Answer clearly and concisely in no more than 100 words.
+19,What are the trade-offs between speed and model quality? Answer clearly and concisely in no more than 100 words.
+20,Explain why resource-aware AI engineering is important. Answer clearly and concisely in no more than 100 words.

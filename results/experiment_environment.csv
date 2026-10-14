@@ -1,0 +1,14 @@
+Parameter,Value
+Python,3.13.15
+PyTorch,2.11.0+cu130
+Transformers,4.57.6
+Accelerate,1.15.0
+BitsAndBytes,0.50.2
+Pandas,2.2.3
+Operating System,Linux-6.6.122+-x86_64-with-glibc2.39
+CUDA Available,True
+GPU,Tesla T4
+GPU Total Memory GiB,14.563
+Model,Qwen/Qwen2.5-0.5B-Instruct
+Inference Modes,FP16 and 4-bit NF4
+Decoding,Greedy (do_sample=False)

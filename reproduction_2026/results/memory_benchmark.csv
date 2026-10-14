@@ -1,0 +1,3 @@
+precision,model_memory_gb,allocated_after_load_gb
+FP16,0.9272,0.9272
+4-bit NF4,0.4416,0.4416

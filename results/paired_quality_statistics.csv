@@ -1,0 +1,2 @@
+n_prompts,mean_difference,std_difference,bootstrap_ci_lower,bootstrap_ci_upper
+20,0.1,1.1192102478745307,-0.35,0.55
